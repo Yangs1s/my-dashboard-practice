@@ -1,7 +1,7 @@
 # dash-board 연습하기
-
-
-
+<div>
+  <img src="https://user-images.githubusercontent.com/92585734/208973919-261665ba-f816-4029-9e17-ed255ae90786.png" alt="사진"/>
+</div>
 ## 하면서 배운점
 
 1. MUI를 처음 써봤는데 기존에 썼던 tailwind나 styled-components를 다르다는 점을 알았다.
